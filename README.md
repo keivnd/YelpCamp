@@ -19,3 +19,6 @@ Each campground has:
   * Setup route to show form
   * Add basic unstyled form
 
+## Stype Campgrounds Page
+  * Add a better header/title
+  * Make campgrounds display like a grid
