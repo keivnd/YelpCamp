@@ -22,3 +22,7 @@ Each campground has:
 ## Stype Campgrounds Page
   * Add a better header/title
   * Make campgrounds display like a grid
+
+## Style the Navbar and Forms
+  * Add a navbar to all templates
+  * Style the new campground form
